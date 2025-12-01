@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A vast green field under a clear sky, representing agriculture and sustainability.",
+      "imageUrl": "https://images.unsplash.com/uploads/1412026095116d2b0c90e/3bf33993?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxncmVlbiUyMGZpZWxkfGVufDB8fHx8MTc2NDQ4NTM2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green field"
+    },
+    {
+      "id": "listing-wheat-straw",
+      "description": "A close-up of dry wheat straw bales.",
+      "imageUrl": "https://images.unsplash.com/photo-1567948607756-8070ea0be715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3aGVhdCUyMHN0cmF3fGVufDB8fHx8MTc2NDUxMDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wheat straw"
+    },
+    {
+      "id": "listing-corn-stover",
+      "description": "A field of corn stover after harvest.",
+      "imageUrl": "https://images.unsplash.com/photo-1607941680176-3b8604644d36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb3JuJTIwc3RvdmVyfGVufDB8fHx8MTc2NDUxMDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "corn stover"
+    },
+    {
+      "id": "listing-rice-husks",
+      "description": "A large pile of rice husks.",
+      "imageUrl": "https://images.unsplash.com/photo-1648788767168-aa2df5105037?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyaWNlJTIwaHVza3N8ZW58MHx8fHwxNzY0NTEwMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rice husks"
+    },
+    {
+      "id": "listing-sugarcane-bagasse",
+      "description": "Fibrous residue of sugarcane after crushing.",
+      "imageUrl": "https://images.unsplash.com/photo-1630547680175-6108ddc92f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdWdhcmNhbmUlMjBiYWdhc3NlfGVufDB8fHx8MTc2NDUxMDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sugarcane bagasse"
+    },
+    {
+      "id": "listing-wood-chips",
+      "description": "A pile of wood chips for biomass.",
+      "imageUrl": "https://images.unsplash.com/photo-1640704714108-ff2d8f423e3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b29kJTIwY2hpcHN8ZW58MHx8fHwxNzY0NTEwMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wood chips"
+    }
+  ]
+}
