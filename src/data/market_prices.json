@@ -1,0 +1,58 @@
+[
+  {
+    "wasteType": "Rice Husk",
+    "region": "Punjab",
+    "season": "Post-Kharif",
+    "pricePerTon": 4800,
+    "lastUpdated": "2026-03-15T12:00:00Z"
+  },
+  {
+    "wasteType": "Rice Husk",
+    "region": "Haryana",
+    "season": "Post-Kharif",
+    "pricePerTon": 4600,
+    "lastUpdated": "2026-03-15T12:00:00Z"
+  },
+  {
+    "wasteType": "Wheat Straw",
+    "region": "Uttar Pradesh",
+    "season": "Post-Rabi",
+    "pricePerTon": 4200,
+    "lastUpdated": "2026-03-20T10:00:00Z"
+  },
+  {
+    "wasteType": "Sugarcane Bagasse",
+    "region": "Maharashtra",
+    "season": "Year-round",
+    "pricePerTon": 3200,
+    "lastUpdated": "2026-03-10T09:00:00Z"
+  },
+  {
+    "wasteType": "Sugarcane Bagasse",
+    "region": "Karnataka",
+    "season": "Year-round",
+    "pricePerTon": 3000,
+    "lastUpdated": "2026-03-10T09:00:00Z"
+  },
+  {
+    "wasteType": "Corn Stover",
+    "region": "Bihar",
+    "season": "Post-Kharif",
+    "pricePerTon": 2500,
+    "lastUpdated": "2026-03-25T14:00:00Z"
+  },
+  {
+    "wasteType": "Cotton Stalks",
+    "region": "Gujarat",
+    "season": "Winter",
+    "pricePerTon": 2100,
+    "lastUpdated": "2026-03-28T11:00:00Z"
+  },
+  {
+    "wasteType": "Sawdust",
+    "region": "Tamil Nadu",
+    "season": "Year-round",
+    "pricePerTon": 1500,
+    "lastUpdated": "2026-03-30T16:00:00Z"
+  }
+]

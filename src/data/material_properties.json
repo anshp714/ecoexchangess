@@ -1,0 +1,32 @@
+[
+  {
+    "wasteType": "Rice Husk",
+    "typicalCalorificValue": "3000-3500 kcal/kg",
+    "ashContent": "18-22%",
+    "moistureDensityFactor": 0.85
+  },
+  {
+    "wasteType": "Wheat Straw",
+    "typicalCalorificValue": "3200-3800 kcal/kg",
+    "ashContent": "8-12%",
+    "moistureDensityFactor": 0.9
+  },
+  {
+    "wasteType": "Sugarcane Bagasse",
+    "typicalCalorificValue": "2200-2500 kcal/kg (Wet)",
+    "ashContent": "2-4%",
+    "moistureDensityFactor": 0.75
+  },
+  {
+    "wasteType": "Corn Stover",
+    "typicalCalorificValue": "3500-4000 kcal/kg",
+    "ashContent": "5-7%",
+    "moistureDensityFactor": 0.88
+  },
+  {
+    "wasteType": "Cotton Stalks",
+    "typicalCalorificValue": "3800-4200 kcal/kg",
+    "ashContent": "3-5%",
+    "moistureDensityFactor": 0.92
+  }
+]
